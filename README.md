@@ -1,4 +1,4 @@
-                     Email-SMS-Spam-Detection
+                           Email-SMS-Spam-Detection
 Project Overview
 The Email-SMS-Spam-Detection project is aimed at building a machine learning model to classify messages (emails or SMS) as either spam or not spam (ham). This is achieved using natural language processing (NLP) techniques and supervised learning algorithms.
 
